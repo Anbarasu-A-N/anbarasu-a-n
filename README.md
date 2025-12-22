@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ANBARASU A N
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm ANBARASU A N
 =====================================================================================================================================
 
 DevOps Engineer | Cloud Engineer | Vibe Coder || 2x AWS
@@ -12,7 +12,7 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
   
 * ✉️  **Email** [natarajananbarasu@gmail.com](mailto:natarajananbarasu@gmail.com)
   
-* 👥  ****Open to collaboration on:** SRE, DevOps, Cloud & Reliability Engineering projects
+* 👥  **Open to collaboration on:** SRE, DevOps, Cloud & Reliability Engineering projects
   
 * 💬  **Ask me about:** SRE practices, AWS, Kubernetes, CI/CD, or why *I’m actually Batman* 🦇 (don’t tell anyone)
 
