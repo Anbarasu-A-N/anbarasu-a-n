@@ -27,15 +27,6 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
 
 ---
 
-### 🔹 Home Appliance Service Centre
-**Tech:** Spring Boot, React, MySQL, AWS  
-- Built REST APIs for service workflows and technician scheduling
-- Deployed on AWS with **99.9% uptime**
-- Optimized database queries for performance  
-🔗 [Repository](https://github.com/Anbarasu-A-N/HomeAppliance)
-
----
-
 ### 🔹 Agriculture Loan Portal
 **Tech:** Spring Boot, React, PostgreSQL, JWT, Redux, AWS  
 - Secure loan processing platform with **JWT authentication**
@@ -46,10 +37,11 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
 ---
 
 ### 🔹 Portfolio Website
-**Tech:** React, Docker  
-- Personal portfolio showcasing projects and certifications
-- Dockerized for consistent builds and deployment  
-🔗 [Repository](https://github.com/Anbarasu-A-N/Anbarasu_portfolio_netlify)
+**Tech:** React  
+- Personal portfolio showcasing projects, skills, and certifications
+- Responsive, clean UI with optimized performance
+- Designed to highlight cloud, DevOps, and SRE experience 
+🔗 [Repository](https://github.com/Anbarasu-A-N/Anbarasu_portfolio)
 
 ---
 
@@ -69,6 +61,24 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
 - Selected as **Site Reliability Engineer @ Zoho**
 
 ---
+
+## 🏅 Credly Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/your-saa-badge-id/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e2848c9-1c77-4c3f-9a7f-1f9b7f8c8e7c/aws-certified-solutions-architect-associate.png" 
+         alt="AWS Certified Solutions Architect – Associate" width="120"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/your-clf-badge-id/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/684f3b45-1b7b-4b98-a5d2-06fef7d5a353/aws-certified-cloud-practitioner.png" 
+         alt="AWS Certified Cloud Practitioner" width="120"/>
+  </a>
+</p>
+
+🔗 **View all my badges on Credly:**  
+👉 https://www.credly.com/users/anbarasu-a-n/badges
+
 
 ### Socials
 
