@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ANBARASU A N
 =====================================================================================================================================
 
-Devops Engineer | SRE @Zoho | Vibe Coder || 2x AWS
+DevOps Engineer | Cloud Engineer | Vibe Coder || 2x AWS
 --------------------------------------------------
 
 I’m a passionate Cloud and DevOps Engineer with expertise in designing, building, and automating scalable solutions using AWS, Docker, Jenkins, Terraform, Kubernetes, Git, and Bash scripting. I specialize in automating CI/CD pipelines, managing cloud infrastructures, and deploying secure, high-performing applications. Certified as an AWS Solutions Architect and Cloud Practitioner, I also have strong full-stack development skills with Java Spring Boot and React. I thrive on solving complex challenges, optimizing workflows, and leveraging DevOps practices to bridge the gap between development and operations, delivering efficient, reliable, and automated solutions.
