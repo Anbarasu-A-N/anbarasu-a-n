@@ -40,7 +40,7 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
 **Tech:** React  
 - Personal portfolio showcasing projects, skills, and certifications
 - Responsive, clean UI with optimized performance
-- Designed to highlight cloud, DevOps, and SRE experience 
+- Designed to highlight cloud, DevOps, and SRE experience
 🔗 [Repository](https://github.com/Anbarasu-A-N/Anbarasu_portfolio)
 
 ---
@@ -58,26 +58,17 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
 - Scored **977/1000** in AWS SAA-C03
 - Scored **967/1000** in AWS CLF-C02
 - Led a team of 3 and completed a full-stack project **3 weeks ahead of schedule**
-- Selected as **Site Reliability Engineer @ Zoho**
 
 ---
 
 ## 🏅 Credly Badges
 
 <p align="left">
-  <a href="https://www.credly.com/badges/your-saa-badge-id/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0e2848c9-1c77-4c3f-9a7f-1f9b7f8c8e7c/aws-certified-solutions-architect-associate.png" 
-         alt="AWS Certified Solutions Architect – Associate" width="120"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/your-clf-badge-id/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/684f3b45-1b7b-4b98-a5d2-06fef7d5a353/aws-certified-cloud-practitioner.png" 
-         alt="AWS Certified Cloud Practitioner" width="120"/>
-  </a>
+  <img src="https://images.credly.com/size/340x340/images/0e2848c9-1c77-4c3f-9a7f-1f9b7f8c8e7c/aws-certified-solutions-architect-associate.png" width="120"/>
+  <img src="https://images.credly.com/size/340x340/images/684f3b45-1b7b-4b98-a5d2-06fef7d5a353/aws-certified-cloud-practitioner.png" width="120"/>
 </p>
 
-🔗 **View all my badges on Credly:**  
-👉 https://www.credly.com/users/anbarasu-a-n/badges
+🔗 https://www.credly.com/users/anbarasu-a-n/badges
 
 
 ### Socials
