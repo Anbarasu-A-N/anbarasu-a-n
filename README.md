@@ -61,13 +61,7 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
 ## 🏅 Credly Badges
 
 <p align="left">
-  <a href="https://www.credly.com/badges/548c01b8-7a32-4724-836f-e10fb70d6db3/public_url" target="_blank">
-    <img 
-      src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
-      alt="AWS Certified Solutions Architect – Associate" 
-      width="130"/>
-  </a>
-  <a href="https://www.credly.com/badges/c215dc1d-d4f7-4552-b5c8-bf9f3050e8de/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/548c01b8-7a32-4724-836f-e10fb70d6db3/public_url" target="_blank"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="130"/></a><a href="https://www.credly.com/badges/c215dc1d-d4f7-4552-b5c8-bf9f3050e8de/public_url" target="_blank">
     <img 
       src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
       alt="AWS Certified Cloud Practitioner" 
