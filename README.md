@@ -6,10 +6,14 @@ DevOps Engineer | Cloud Engineer | Vibe Coder || 2x AWS
 
 I’m a passionate Cloud and DevOps Engineer with expertise in designing, building, and automating scalable solutions using AWS, Docker, Jenkins, Terraform, Kubernetes, Git, and Bash scripting. I specialize in automating CI/CD pipelines, managing cloud infrastructures, and deploying secure, high-performing applications. Certified as an AWS Solutions Architect and Cloud Practitioner, I also have strong full-stack development skills with Java Spring Boot and React. I thrive on solving complex challenges, optimizing workflows, and leveraging DevOps practices to bridge the gap between development and operations, delivering efficient, reliable, and automated solutions.
 
-* 🌍  **Based in:** Erode, Tamil Nadu, India  
+* 🌍  **Based in:** Erode, Tamil Nadu, India
+  
 * 🖥️  **Portfolio** [MyPortfolio](http://anbarasu-a-n.netlify.app/)
+  
 * ✉️  **Email** [natarajananbarasu@gmail.com](mailto:natarajananbarasu@gmail.com)
-* 👥  ****Open to collaboration on:** SRE, DevOps, Cloud & Reliability Engineering projects 
+  
+* 👥  ****Open to collaboration on:** SRE, DevOps, Cloud & Reliability Engineering projects
+  
 * 💬  **Ask me about:** SRE practices, AWS, Kubernetes, CI/CD, or why *I’m actually Batman* 🦇 (don’t tell anyone)
 
 <p align="left">
@@ -72,5 +76,5 @@ I’m a passionate Cloud and DevOps Engineer with expertise in designing, buildi
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/Anbarasu-A-N/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a><a href="https://www.linkedin.com/in/anbarasu-a-n/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></picture></a>
+<a href="https://www.github.com/Anbarasu-A-N/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a><a href="https://www.linkedin.com/in/anbarasu-a-n/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></picture></a><a href="https://www.instagram.com/anbarasu_a_n/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" /></picture></a>
 </p>
